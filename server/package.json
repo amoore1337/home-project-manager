@@ -1,0 +1,10 @@
+{
+  "name": "home-project-manager",
+  "version": "1.0.0",
+  "description": "nitric-based project manager api",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "@nitric/sdk": "latest"
+  }
+}
